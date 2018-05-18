@@ -1,0 +1,70 @@
+2018-04-20 10:52:01,683 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 10:54:25,650 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-20 10:54:27,386 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 10:54:28,558 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 10:54:30,207 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 10:54:31,342 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 10:54:33,007 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 10:54:34,148 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 10:54:35,757 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 10:54:36,897 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 10:54:38,525 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 10:54:39,653 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:26:32,529 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:28:08,078 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:29:06,109 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-20 11:29:28,949 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:29:45,894 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-20 11:29:48,018 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:29:49,170 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:29:51,180 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:29:52,324 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:29:54,288 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:29:55,470 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:29:57,439 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:29:58,628 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:30:02,237 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:30:03,433 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:33:41,900 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-20 11:33:43,842 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:33:44,993 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:33:46,742 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:33:47,938 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:33:49,655 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:33:50,852 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:33:52,499 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:33:53,649 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:33:55,292 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:33:56,431 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:39:06,399 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-20 11:39:08,676 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:39:09,851 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:39:11,675 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:39:12,853 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:39:14,536 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:39:15,721 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:39:17,449 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:39:18,640 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-20 11:39:20,337 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-20 11:39:21,491 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-24 19:13:53,753 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-24 19:15:55,244 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-24 19:16:20,438 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-24 19:25:21,407 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-24 19:25:45,847 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-24 19:26:36,241 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-25 19:59:21,647 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:00:23,932 - CloudResource - INFO - CloudCoapResource handling GET req
+2018-04-25 20:05:02,505 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:05:31,954 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-25 20:05:33,086 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:05:33,351 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-25 20:05:34,519 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:05:34,816 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-25 20:05:35,964 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:05:36,211 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-25 20:05:37,387 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-25 20:05:37,683 - CloudResource - INFO - CloudCoapResource handling POST req
+2018-04-25 20:05:38,824 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-04-30 03:40:18,002 - CloudResource - INFO - CloudCoapResource initiation successful
+2018-05-13 23:36:28,597 - CloudResource - INFO - CloudCoapResource initiation successful
